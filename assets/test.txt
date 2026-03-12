@@ -1,0 +1,1 @@
+Test file to create the assets folder. You can ignore this file!
